@@ -1,3 +1,3 @@
 # Educave
 
-<p align="center"> <img src="ss/classDiagram.png" width="35%"></p>
+<p align="center"> <img src="classDiagram.png" width="35%"></p>
